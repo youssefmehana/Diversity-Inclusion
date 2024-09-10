@@ -1,5 +1,5 @@
 # Diversity-Inclusion
-
+This project is part of a Virtual Internship on Power BI with PwC Switzerland, offered through the Data Analytics Virtual Case Experience by Forage.
 # Problem Statement
 
 Our telecom client has been striving to improve gender balance at the executive management level as part of their broader commitment to diversity and inclusion. Despite their efforts, they have not made any significant progress in achieving this goal. The company recognizes that fostering diversity and inclusion is critical to navigating the complexities of today's business environment and has reached out to us for support. At PwC Switzerland, we understand that creating an inclusive workforce with diverse talents is not only essential for business success but also presents practical challenges that require targeted strategies and solutions. The client is seeking our expertise to help overcome these barriers and realize the full potential of their diversity and inclusion efforts.
